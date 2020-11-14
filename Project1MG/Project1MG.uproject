@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F26C8544-40C2-8FD7-7294-AB968CC63CDB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Project1MG",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
